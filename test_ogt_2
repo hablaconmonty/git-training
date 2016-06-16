@@ -6,10 +6,5 @@ Edwaaaaard
 new cambio tras feature
 feature2
 
-<<<<<<< HEAD
-commit 3
-commit 4
-=======
-change 1
-change 2
->>>>>>> refs/heads/master
+commit 1
+commit 2
